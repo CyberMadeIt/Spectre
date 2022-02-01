@@ -1,10 +1,8 @@
 # Spectre
-*Information:
-Current Version: V1
-Developer: Cyber
+Information
 
 # Features
-*Coming Soon
+Coming Soon
 
-# 
-*Update Log
+# Updates
+Coming Soon
